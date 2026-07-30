@@ -1,8 +1,8 @@
-# Abstract: uporto-fcup-novathesis-vA.B.C
+# Abstract: novathesis-uporto-fcup-v8.0.0
 
-This is a customized LaTeX template for theses and reports at **Faculdade de Ciências da Universidade do Porto (FCUP)**, following the most recent [FCUP guidelines (in Portuguese)](https://info.fc.up.pt/fcup/static/index.php?f_id=A.B.C). 
+This is a customized LaTeX template for theses and reports at **Faculdade de Ciências da Universidade do Porto (FCUP)**, following the most recent [FCUP guidelines (in Portuguese)](https://info.fc.up.pt/fcup/static/index.php?f_id=1337). 
 
-This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (vA.B.C)**, trimmed down and optimized to provide FCUP students with a streamlined experience, meeting FCUP's academic formatting standards without the complexity of the original multi-institution template. 
+This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.0)**, trimmed down and optimized to provide FCUP students with a streamlined experience, meeting FCUP's academic formatting standards without the complexity of the original multi-institution template. 
 
 ### Key Features:
 
